@@ -1,0 +1,21 @@
+body {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: whitesmoke;
+}
+
+main {
+    margin: 0 5rem;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    row-gap: 1rem;
+    justify-content: center;
+}
+
+.input-form{
+    display: flex;
+    flex-direction: column;
+    row-gap: 5px;
+}
